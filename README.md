@@ -2,6 +2,7 @@
 My DSA journey using cp
 
 # 🚀 Day 1 – C++ Basics Practice
+Date: 30-jul-2025
 
 Welcome to **Day 1** of my **C++ DSA Practice Journey**!  
 Today, I focused on getting comfortable with C++ fundamentals by writing a few basic programs.
