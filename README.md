@@ -31,37 +31,19 @@ This day was all about understanding how to:
 # 🚀 Day 2 – Conditional Statements & Loops Practice  
 📅 Date: 31-Jul-2025
 
-Welcome to **Day 2** of my **C++ DSA Practice Journey**!  
 Today I practiced both **conditional statements** and **loops** in C++.
 
----
-
 ## ✅ Conditional Statements
-
-I explored how to:
-- Check if a number is **positive or negative**
-- Determine **voting eligibility**
-- Check if a number is **even or odd**
-- Build a **grading system**
-- Identify whether a character is **uppercase or lowercase**
-- Understand **ASCII values** for character comparisons
-
-### ✅ Programs Practiced:
-1. 🔢 Positive or Negative Number  
-2. 🗳️ Voting Eligibility Checker  
-3. 🔁 Even or Odd Number Checker  
-4. 📝 Marks Grading System  
-5. 🔠 Character Case Checker  
-
----
+- 🔢 Positive or Negative Number  
+- 🗳️ Voting Eligibility Checker  
+- 🔁 Even or Odd Number Checker  
+- 📝 Marks Grading System  
+- 🔠 Character Case Checker  
 
 ## 📚 Concepts Revised:
 - `if`, `else if`, `else`
 - Logical operators: `&&`, `||`
 - Character and ASCII handling
-- Input/Output using `cin`, `cout`
-
----
 
 ## 🔡 ASCII Reference Table:
 
@@ -74,28 +56,53 @@ I explored how to:
 
 ## 🔁 Loops Practiced
 
-I also explored **while**, **for**, and **do-while** loops today.
-
-### ✅ Programs Practiced:
-
-1. 🔁 Print 1 to 5 using `while` loop  
-2. 🔢 Print numbers from 1 to `n` using `while`  
-3. ➕ Sum of even numbers till `n` using `while`  
-4. ➕ Sum of 1 to `n` using `for` loop  
-5. ➕ Sum of odd numbers till `n` using `for`  
-6. 🔍 Prime number check using `for`  
-7. 👋 Test `do-while` loop with false condition (runs once)
-
----
+- 🔁 Print 1 to 5 using `while` loop  
+- 🔢 Print numbers from 1 to `n` using `while`  
+- ➕ Sum of even numbers till `n`  
+- ➕ Sum of 1 to `n`  
+- ➕ Sum of odd numbers  
+- 🔍 Prime number check  
+- 👋 Test `do-while` loop with false condition
 
 ## 📚 Loop Concepts Revised:
-- `while` loop: Entry-controlled loop
-- `for` loop: Best for known iterations
-- `do-while` loop: Runs **at least once**
-- Prime number check logic
-- Summation using conditions inside loops
+- `while`, `for`, `do-while`
+- Entry/exit conditions
+- Prime logic
+- Summation inside loop
 
 ---
 
-✅ Great progress today!  
-Next up: **Patterns & Number Problems** in C++ 🚀
+# 🚀 Day 3 – Pattern Practice  
+📅 Date: 2-Aug-2025
+
+Explored **nested loops** and **pattern printing** using characters, numbers, and special symbols.
+
+## ✅ Patterns Practiced:
+
+1. 🔢 `1 2 3 4` repeated rows  
+2. 🔠 `A B C D` repeated rows  
+3. 🔢 Counting number grid (1 to 9)  
+4. 🔠 Alphabet grid (`A` to `I`)  
+5. ⭐ Right-angled triangle of `*`  
+6. 🔢 Repeating number triangle (1, 2 2, 3 3 3...)  
+7. 🔠 Repeating alphabet triangle (`A`, `B B`, ...)  
+8. 🔢 Increasing triangle (`1`, `1 2`, `1 2 3`...)  
+9. 🔢 Reversed triangle (`1`, `2 1`, `3 2 1`, ...)  
+10. 🔠 Reversed alphabet triangle (`A`, `B A`, `C B A`, ...)  
+11. 🔢 Number flow triangle (1 to 10)  
+12. 🔠 Alphabet flow triangle (`A` to `J`)  
+13. 🔢 Inverted triangle with spaces and repeated numbers  
+14. ⭐ Pyramid (`*` center aligned)  
+15. 🔢 Palindromic number pyramid  
+16. 🦋 Butterfly pattern with stars and dashes
+
+## 📚 Concepts Covered:
+- Nested loops
+- ASCII manipulation for characters
+- Managing spacing for alignment
+- Pattern building logic (symmetry, rows, columns)
+
+---
+
+✅ Amazing visual logic practice today!  
+Next up: **Functions & Scope in C++** 🔜
