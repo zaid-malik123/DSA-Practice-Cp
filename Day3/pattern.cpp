@@ -167,3 +167,45 @@
 //     }
 //     return 0;
 // }
+
+// ques 9:-
+// 1 
+// 2 1 
+// 3 2 1
+// 4 3 2 1
+
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int n;
+//     cout<<"Enter the number: ";
+//     cin>>n;
+//     for(int i = 0; i < n; i++){
+//       for(int j = (i + 1); j > 0; j--){
+//         cout<<j;
+//       }
+//         cout<<endl;
+//     }
+//     return 0;
+// }
+
+// ques 10:-
+// A 
+// B A 
+// C B A
+// D C B A
+
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int n;
+//     cout<<"Enter the number: ";
+//     cin>>n;
+//     for(int i = 0; i < n; i++){
+//       for(int j = (65+i); j >= 65; j--){
+//         cout<<char(j)<<" ";
+//       }
+//         cout<<endl;
+//     }
+//     return 0;
+// }
