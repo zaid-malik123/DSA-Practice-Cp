@@ -106,6 +106,66 @@ Explored **nested loops** and **pattern printing** using characters, numbers, an
 # 🚀 Day 4 – Functions & Scope in C++  
 📅 Date: 3-Aug-2025
 
+Today I focused on learning how to **create, use, and understand functions** in C++. I explored **parameters, return types, stack behavior, modular programming**, and also practiced **number system conversions**.
+
+---
+
+## ✅ Concepts Covered:
+
+- What is a function and why we use it  
+- Difference between **parameters** and **arguments**  
+- Returning values from functions  
+- Using `void` when no return is needed  
+- Stack memory: how function calls work (LIFO)  
+- Reusability and cleaner code using functions  
+- Understanding **binary and decimal conversions**  
+- Using modulus and multiplication for **digit-wise processing**
+
+---
+
+## ✅ Programs Practiced:
+
+1. 🔊 **Simple Function Call**  
+   - Created and called a `sayHello()` function
+
+2. ➕ **Sum of Two Numbers (with parameters)**  
+   - Created `sum(int a, int b)` function
+
+3. 🔽 **Minimum of Two Numbers**  
+   - Used conditional logic inside a function to return the smaller number
+
+4. 🔢 **Sum of First N Numbers**  
+   - Wrote `sumN(int n)` function to calculate total from 1 to `n`
+
+5. ❗ **Factorial of a Number**  
+   - Implemented `factN(int n)` function using a `for` loop
+
+6. 🔢 **Sum of Digits of a Number**  
+   - Wrote `sumD(int n)` function using modulus (`%`) and division (`/`) logic
+
+7. 🔁 **Decimal to Binary Conversion**  
+   - Used `% 2`, `/ 2`, and positional multiplication to convert a number to binary
+
+8. 🔁 **Binary to Decimal Conversion**  
+   - Parsed binary digit by digit and calculated its decimal equivalent using powers of 2
+
+---
+
+## 🧠 Key Takeaways:
+
+- Functions make code **modular, readable, and reusable**
+- Each function call is stored in the **call stack (LIFO)**
+- Local variables live inside their respective function’s stack frame
+- Binary ↔ Decimal conversions help understand **bitwise operations**
+- Building logic with `while`, `%`, `/`, `*` trains deep logical reasoning
+
+---
+
+✅ Functions, recursion base, and conversions — all explored today!  
+Next up: **Arrays – 1D traversal, input, and basic problems** 🔜
+ 
+📅 Date: 3-Aug-2025
+
 Today I focused on learning how to **create, use, and understand functions** in C++. I explored **parameters, return types, stack behavior, and modular programming**.
 
 ---
