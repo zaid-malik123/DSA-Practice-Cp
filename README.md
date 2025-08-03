@@ -102,6 +102,58 @@ Explored **nested loops** and **pattern printing** using characters, numbers, an
 - Managing spacing for alignment
 - Pattern building logic (symmetry, rows, columns)
 
+
+# 🚀 Day 4 – Functions & Scope in C++  
+📅 Date: 3-Aug-2025
+
+Today I focused on learning how to **create, use, and understand functions** in C++. I explored **parameters, return types, stack behavior, and modular programming**.
+
+---
+
+## ✅ Concepts Covered:
+
+- What is a function and why we use it  
+- Difference between **parameters** and **arguments**  
+- Returning values from functions  
+- Using `void` when no return is needed  
+- Stack memory: how function calls work (LIFO)  
+- Reusability and cleaner code using functions
+
+---
+
+## ✅ Programs Practiced:
+
+1. 🔊 **Simple Function Call**  
+   - Created and called a `sayHello()` function
+
+2. ➕ **Sum of Two Numbers (with parameters)**  
+   - Created `sum(int a, int b)` function
+
+3. 🔽 **Minimum of Two Numbers**  
+   - Used conditional logic inside a function to return the smaller number
+
+4. 🔢 **Sum of First N Numbers**  
+   - Wrote `sumN(int n)` function to calculate total from 1 to `n`
+
+5. ❗ **Factorial of a Number**  
+   - Implemented `factN(int n)` function using a `for` loop
+
+6. 🔢 **Sum of Digits of a Number**  
+   - Wrote `sumD(int n)` function using modulus (`%`) and division (`/`) logic
+
+---
+
+## 🧠 Key Takeaways:
+
+- Functions make code **modular, readable, and reusable**
+- Each function gets its own memory in the **call stack**
+- Local variables inside functions exist only during function execution
+- `void` return type is used when we don't want to return anything
+- We can pass **arguments dynamically** to generalize logic
+
+---
+
+✅ Functions mastered today! 
 ---
 
 ✅ Amazing visual logic practice today!  
