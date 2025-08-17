@@ -1,4 +1,4 @@
-// find the largest and minimum number in Array
+// // find the largest and minimum number in Array
 
 // #include<iostream>
 // #include <climits>
@@ -22,7 +22,7 @@
 //     return 0;
 // }
 
-// find the value persent in an array if persent return idx or not return -1;
+// // find the value persent in an array if persent return idx or not return -1;
 
 // #include<iostream>
 // using namespace std;
@@ -43,7 +43,7 @@
 // }
 
 
-// Reverse an array;
+// // Reverse an array;
 // #include<iostream>
 // using namespace std;
 // int main(){
