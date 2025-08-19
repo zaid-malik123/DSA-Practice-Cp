@@ -157,3 +157,15 @@
 // return 0;
 // }
 
+// #include<iostream>
+// using namespace std;
+// int main(){
+//     int arr[6] = {1, 3, 5, 6, 9, 10};
+//     int target = 9;
+//     for(int i = 0; i < sizeof(arr); i++){
+//         if(arr[i] == target){
+//             return i;
+//         }
+//     }
+//     return 0;
+// }

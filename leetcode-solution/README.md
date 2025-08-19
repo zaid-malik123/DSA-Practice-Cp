@@ -8,7 +8,7 @@ This repository contains my solutions to LeetCode problems in C++. I solve probl
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy       | 06     |
+| Easy       | 10     |
 | Medium     | 0     |
 | Hard       | 0    |
 
