@@ -189,3 +189,22 @@
 //     }
 //     return 0;
 // }
+
+
+// Find Missing Number (1 to n series)
+// #include<iostream>
+// using namespace std;
+
+// int main(){
+//     int arr[5] = {1, 2, 4, 5, 6}; // missing = 3
+//     int n = 6;  // last element of series
+//     int sum = (n * (n + 1)) / 2; // formula sum of 1 to n
+//     int arrSum = 0;
+
+//     for(int i = 0; i < 5; i++){
+//         arrSum += arr[i];
+//     }
+
+//     cout << "Missing number is: " << sum - arrSum;
+//     return 0;
+// }
