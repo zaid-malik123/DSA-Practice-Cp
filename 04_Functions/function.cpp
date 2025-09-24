@@ -104,3 +104,30 @@
 //     cout << a << "^" << b << " = " << power(a, b) << endl;
 //     return 0;
 // }
+
+// #include<iostream>
+// using namespace std;
+
+// // Function to check prime
+// bool isPrime(int n) {
+//     if (n <= 1) return false; // 0, 1 prime nahi hote
+//     for (int i = 2; i <= n / 2; i++) {
+//         if (n % i == 0) 
+//             return false; // agar divide ho gaya toh prime nahi
+//     }
+//     return true;
+// }
+
+// int main() {
+//     int num;
+//     cout << "Enter a number: ";
+//     cin >> num;
+
+//     if (isPrime(num))
+//         cout << num << " is a Prime number" << endl;
+//     else
+//         cout << num << " is NOT a Prime number" << endl;
+
+//     return 0;
+// }
+
