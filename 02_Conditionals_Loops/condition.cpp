@@ -121,3 +121,33 @@
 
 //     return 0;
 // }
+
+// #include<iostream>
+// using namespace std;
+
+// int main(){
+//     int n;
+//     cout << "Enter number of terms for Fibonacci series: ";
+//     cin >> n;
+
+//     int a = 0, b = 1, next;
+
+//     if(n <= 0){
+//         cout << "Please enter a positive number!";
+//     }
+//     else if(n == 1){
+//         cout << "Fibonacci series: " << a;
+//     }
+//     else{
+//         cout << "Fibonacci series: " << a << " " << b << " ";
+//         for(int i = 3; i <= n; i++){
+//             next = a + b;
+//             cout << next << " ";
+//             a = b;
+//             b = next;
+//         }
+//     }
+
+//     return 0;
+// }
+
