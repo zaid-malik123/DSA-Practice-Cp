@@ -1,4 +1,4 @@
-📘 If-Else Conditionals (C++)
+📘 If-Else Conditionals in C++
 
 This folder contains beginner-friendly C++ practice problems designed to help you understand decision-making and conditional statements.
 
@@ -22,10 +22,9 @@ Strengthen problem-solving with real-world scenarios
 
 💡 Pro Tip
 
-Don’t just run the code — experiment with values, break it, and fix it.
-That’s the fastest way to master conditionals.
+Don’t just run the code — experiment with different values, try to break it, and then fix it. That’s the fastest way to master conditionals. 🚀
 
-🚀 How to Run
+🛠️ How to Run
 
 Make sure you have a C++ compiler (like g++) installed. Then run:
 
