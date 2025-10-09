@@ -208,3 +208,28 @@
 //     cout << "Missing number is: " << sum - arrSum;
 //     return 0;
 // }
+
+// #include <iostream>
+// using namespace std;
+
+// int main() {
+//     int arr[5];
+//     for(int i = 0; i < 5; i++){
+//         cout << "Enter the " << i << " element of array: ";
+//         cin >> arr[i];
+//     }
+
+//     cout << "Array elements are: ";
+//     for(int i = 0; i < 5; i++){
+//         cout << arr[i] << " ";
+//     }
+
+//     int sum = 0;
+//     for(int i = 0; i < 5; i++){
+//         sum += arr[i];
+//     }
+
+//     cout << "\nSum of array elements = " << sum << endl;
+
+//     return 0;
+// }
